@@ -1,0 +1,11 @@
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\bin\Debug\DividendLiberty.exe.config
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\bin\Debug\DividendLiberty.exe
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\bin\Debug\DividendLiberty.pdb
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.Dividends.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.MainMenu.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.PleaseWait.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.Properties.Resources.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.Shares.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.csproj.GenerateResource.Cache
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.exe
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.pdb
